@@ -1,4 +1,5 @@
 // data_transform
 
-ejecutar regla_1: convertir
+ejecutar regla_1: convertir valores nulo 
 ejecutar regla_2: eliminar duplicidad
+ejecutar regla_3: estandarizar
